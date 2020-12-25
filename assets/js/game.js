@@ -132,10 +132,6 @@ var endGame = function() {
     }
 };
 
-<<<<<<< HEAD
-// start the game when the page loads
-startGame();
-=======
 // function to shop
 var shop = function() {
     // ask player what they'd like to do
@@ -223,4 +219,3 @@ var enemyInfo = [
 
 // Run Game
 startGame();
->>>>>>> develop
