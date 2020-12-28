@@ -282,12 +282,6 @@ var startGame = function() {
       name: "Robo Trumble",
       attack: randomNumber(10, 14)
     }
-<<<<<<< HEAD
-];
-
-// Run Game
-startGame();
-=======
   ];
   
   /* END GAME INFORMATION / VARIABLES */
@@ -295,4 +289,3 @@ startGame();
   /* RUN GAME */
   startGame();
   
->>>>>>> develop
